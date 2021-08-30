@@ -10,7 +10,7 @@ Short report on the first experiment assignement.
 	- Downloaded and installed heroku.
 	- Cloned the example app.
 	- Created a Heroku project using the cloned repo with "heroku create".
-	- Deployed the app with "git push heroku main".
+	- Deployed the app with a git push to https://warm-refuge-71098.herokuapp.com/.
 	- Opened the app with "heroku open".
 	- Viewed the logs with "heroku logs --tail".
 	- Scaled the app up and down with "heroku ps:scale web=0/1".
@@ -25,4 +25,4 @@ Short report on the first experiment assignement.
 
 **Conclusion**
 
-The tutorial was easy to follow, with only minor problems except from the last parts concerning the database.
+The tutorial was easy to follow, with only minor problems except from the last parts concerning the database. 
