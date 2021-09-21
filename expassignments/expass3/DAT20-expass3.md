@@ -9,7 +9,7 @@ This is the report for the third experiment assignment.
 
 *Installation*
 - Validated the installation package. The output i the terminal is in norwegian, but it corresponds to:
-- 
+
 gpg: WARNING: This key is not certified with a trusted signature!
 gpg:          There is no indication that the signature belongs to the owner.
 Primary key fingerprint: E162 F504 A20C DF15 827F  718D 4B7C 549A 058F 8B6B
