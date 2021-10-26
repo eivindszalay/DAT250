@@ -1,6 +1,7 @@
 
 **Experiment assignment 7 report**
 
+Link to repo: https://github.com/eivindszalay/RabbitMQTUT
 
 **Experiment 1: Installation**
 
